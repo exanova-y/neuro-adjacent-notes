@@ -62,8 +62,7 @@ Aim to get a conceptual understanding for the concepts below with several  examp
 Sources: 
 - General: 
 	- WBE workshop 2023: https://foresight.org/whole-brain-emulation-workshop-2023/ These contain 10 minute clips
-	- Benchmarking: https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/
-	- dimensionless numbers in brain science: https://www.youtube.com/watch?v=AwXnRTNLAhw
+	- Benchmarking: https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/, dimensionless numbers in brain science: https://www.youtube.com/watch?v=AwXnRTNLAhw
 - Signal acquisition and processing. 
 	- Recovering missing information during scanning. https://foresight.org/summary/presentation-group-7-recovering-function-from-missing-information-during-scanning-wbe-2023/
 - Neural decoding algorithms
@@ -71,7 +70,7 @@ Sources:
 - Emulation models and techniques
 
 ### Future of neuro
-Sources: Alexandra Elbakyan's work, lesswrong blog posts 
+Sources: Alexandra Elbakyan, lesswrong blog posts 
 Overview: the future of neurotechnology: https://milan.cvitkovic.net/writing/the_goals_of_neurotechnology/, https://forum.effectivealtruism.org/posts/Qhn5nyRf93dsXodsw/cause-area-differential-neurotechnology-development
 Whole brain emulation workshop 2024: https://foresight.org/2024-foresight-neurotech-bci-and-wbe-for-safe-ai-workshop/
 - Neural steganography 
