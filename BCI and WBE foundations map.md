@@ -2928,8 +2928,8 @@ e49a01bc97895d1a4c842b55c88a9fd9fce7b281: [[Pasted Image 20240727205330_217.png]
 		},
 		{
 			"type": "arrow",
-			"version": 226,
-			"versionNonce": 380587276,
+			"version": 230,
+			"versionNonce": 52307972,
 			"isDeleted": false,
 			"id": "7HCDFCXIaegXDig_isTh1",
 			"fillStyle": "solid",
@@ -2951,7 +2951,7 @@ e49a01bc97895d1a4c842b55c88a9fd9fce7b281: [[Pasted Image 20240727205330_217.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1722200479226,
+			"updated": 1722271200369,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2980,8 +2980,8 @@ e49a01bc97895d1a4c842b55c88a9fd9fce7b281: [[Pasted Image 20240727205330_217.png]
 		},
 		{
 			"type": "arrow",
-			"version": 100,
-			"versionNonce": 7811852,
+			"version": 101,
+			"versionNonce": 885344772,
 			"isDeleted": false,
 			"id": "zMQhQvNfyW8POqJZnbjto",
 			"fillStyle": "solid",
@@ -3003,7 +3003,7 @@ e49a01bc97895d1a4c842b55c88a9fd9fce7b281: [[Pasted Image 20240727205330_217.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1722200479224,
+			"updated": 1722271200369,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6913,10 +6913,10 @@ e49a01bc97895d1a4c842b55c88a9fd9fce7b281: [[Pasted Image 20240727205330_217.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 4290.055264302217,
-		"scrollY": 2354.3491721741,
+		"scrollX": 8111.65298595455,
+		"scrollY": 3369.8212710912794,
 		"zoom": {
-			"value": 0.5010505603595083
+			"value": 0.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
