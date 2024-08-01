@@ -1,3 +1,4 @@
+cryptography-focused
 ### Fundamentals of Cryptography
 Sources
 1. Intro to cryptography: https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg. Use the companion book: Understanding cryptography textbook for students by Christof Paar.
@@ -80,6 +81,9 @@ Whole brain emulation workshop 2024: https://foresight.org/2024-foresight-neurot
 - overclocking one's brain
 - biometrics 
 - Digital consciousness philosophy articles
+
+---
+Neurocryptography
 
 ### Privacy in neurotechnology
 read a few review papers on this:
