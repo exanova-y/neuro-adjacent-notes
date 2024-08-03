@@ -17,4 +17,15 @@ Jul 31:
 
 
 Aug 1st:
-- 
+- created mathematical and imaging portion of concept list
+- exchanged insights with a friend in grad school: 
+	- types of student-prof collaborations
+	- non-profits moving efficiently with incentives
+	- "the boy's club" influence on abrasive communication in certain stem fields
+
+Aug 2nd:
+- Attended neuromodulation conference; took notes on neuromodulation technologies including TI, tDCS, tES, TMS, created new diagram notes (in this repo)
+- met yev https://yev.bar/
+- had a call to discuss a fellowship for outliers
+- scaffolded personal plan for the next 1.5 years
+- women in neurotech event
