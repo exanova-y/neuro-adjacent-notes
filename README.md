@@ -1,4 +1,4 @@
 
-# neuro-adjacent-notes
+# Neuroscience Key Concepts
 
-Here, you can follow along with my daily notes about core comp neuro concepts and explorations in the outer ruliads. I've compiled a list of content to be learned.
+List of important concepts to be covered
